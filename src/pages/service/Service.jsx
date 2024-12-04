@@ -111,4 +111,9 @@ const ServicePage = () => {
   );
 };
 
+
 export default ServicePage;
+
+
+
+// Kamchiliklari bor hali tugamadi
